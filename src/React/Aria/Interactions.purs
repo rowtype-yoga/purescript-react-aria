@@ -1,4 +1,4 @@
-module React.Aria.Interactions2 where
+module React.Aria.Interactions where
 
 import Prelude
 
