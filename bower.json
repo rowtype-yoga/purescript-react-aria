@@ -1,0 +1,32 @@
+{
+    "name": "purescript-react-aria",
+    "license": [
+        "MIT"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rowtype-yoga/purescript-react-aria"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-aff": "^v7.1.0",
+        "purescript-effect": "^v4.0.0",
+        "purescript-foreign": "^v7.0.0",
+        "purescript-foreign-object": "^v4.1.0",
+        "purescript-nullable": "^v6.0.0",
+        "purescript-ordered-collections": "^v3.0.0",
+        "purescript-prelude": "^v6.0.1",
+        "purescript-react-basic": "^v17.0.0",
+        "purescript-react-basic-dom": "https://github.com/lumihq/purescript-react-basic-dom.git#v6.0.0",
+        "purescript-react-basic-hooks": "^v8.1.2",
+        "purescript-unsafe-coerce": "^v6.0.0",
+        "purescript-untagged-union": "https://github.com/rowtype-yoga/purescript-untagged-union.git#v1.0.0",
+        "purescript-web-dom": "^v6.0.0",
+        "purescript-web-html": "^v4.1.0"
+    }
+}
